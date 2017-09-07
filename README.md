@@ -15,13 +15,14 @@ Things to be covered
   - Heroku Redis
     - Technical Characteristics
     - Use case study
-  - Heroku Kafka
-    - Technical Characteristics
-    - Kafka event stream modeling
-    - Use case study
   - Heroku Add-ons
     - Papertrail / LogDNA
     - New Reric APM
     - Librato
     - SendGrid
     - Heroku Exec
+  - Heroku Connect
+    - Features
+    - Settings
+    - Tips
+
