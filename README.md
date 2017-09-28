@@ -1,5 +1,5 @@
 # Heroku-innovation201
-Intermediate workshop 
+Intermediate Heroku Workshop - Using Node App with Heroku Process Model (web, worker, clock dynos), Postgres, Redis and Heroku Connect. 
 
 ## Note for the instructor (important)
   - Add the attendees to a Heroku Enterprise Org as Org Members (otherwise they won't be able to extend the app with add-ons)
